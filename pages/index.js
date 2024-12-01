@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>For yourself, keep going...</h1>
+    return <h1>For yourself, keep going...<p>Keep coding...</p></h1>
 
 }
 
